@@ -1,0 +1,7 @@
+# Traffic collector
+Extract features from pcap or extract features live from interface
+## A note on correctness
+We tested the on-path and off-path part of the system individually on a small scale. We do not guarantee the system as a whole will perform exactly the same as the simulation. This could come from packet drops, incorrect timing, lags in running the detection (may miss or add few seconds of packet at the beginning/end of 30min window), etc.
+## A note on performance
+Depends on your hardware, software versions, background process, luck etc. The stated execution performance in the paper may not be achievable. That is the best run we got. A more typical execution performance would be $4.5 \pm 7.5$ ms for querying traffic collector, $61.86 \pm 33.2$ ms for preprocessing and $9.4 \pm 5$ ms for GPU inferencing. 
+We made traffic collector fast, but we do not guarantee it can handle 5000 UEs’ traffic without packet drops.
