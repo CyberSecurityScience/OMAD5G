@@ -1,0 +1,507 @@
+[
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 0.0,
+        "std_after_min": 0.0,
+        "category": true,
+        "cat_enc": [
+            [
+                6,
+                0
+            ],
+            [
+                17,
+                1
+            ]
+        ]
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 0.0,
+        "std_after_min": 0.0,
+        "category": true,
+        "cat_enc": [
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1
+            ],
+            [
+                3,
+                2
+            ],
+            [
+                4,
+                3
+            ],
+            [
+                8,
+                4
+            ],
+            [
+                9,
+                5
+            ]
+        ]
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 1.5161306993160901,
+        "std_after_min": 1.612899322027276,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 40.0,
+        "mean_after_min": 7.117479685266337,
+        "std_after_min": 2.1917325961651986,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 1.0,
+        "mean_after_min": 2.0751504992320258,
+        "std_after_min": 1.3425476423244922,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 1.7508997037530585,
+        "std_after_min": 1.047760816126264,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 1.689147768652988,
+        "std_after_min": 1.1412946272781073,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 5.983726579454682,
+        "std_after_min": 1.73119876034765,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 6.662486202901155,
+        "std_after_min": 2.3176192420492936,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 0.7284346770685789,
+        "std_after_min": 0.16897255681316817,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 0.5090135526406525,
+        "std_after_min": 0.424943617409661,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 5.844146789683333,
+        "std_after_min": 2.4094003292890065,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 1.91098814254939,
+        "std_after_min": 1.7352806199213984,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 6.518593744297372,
+        "std_after_min": 2.6989336437336497,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 1.8692592586282106,
+        "std_after_min": 1.7119293397553674,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 7.078913844411514,
+        "std_after_min": 2.556001435910546,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 2.379745554212581,
+        "std_after_min": 1.918494770455201,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 0.24036760297580825,
+        "std_after_min": 0.3350027536072965,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 0.42358942615819506,
+        "std_after_min": 0.36355144745579515,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 0.04144685817025111,
+        "std_after_min": 0.1643500253471005,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 0.6555134039913855,
+        "std_after_min": 0.7908064422937875,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 1.3258910598899916,
+        "std_after_min": 1.313493674986031,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 4.040967647408297e-05,
+        "std_after_min": 0.005292279317401664,
+        "category": false
+    },
+    {
+        "is_normal": true,
+        "min_val": 0.0,
+        "mean_after_min": 0.0,
+        "std_after_min": 0.0,
+        "category": false
+    },
+    {
+        "is_normal": true,
+        "min_val": 0.0,
+        "mean_after_min": 0.0,
+        "std_after_min": 0.0,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 0.277893994658888,
+        "std_after_min": 0.35749261152587297,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 0.4231051067099743,
+        "std_after_min": 0.37549344723062184,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 0.01623122005042333,
+        "std_after_min": 0.10481971146055363,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 0.7388205986667395,
+        "std_after_min": 0.9572185875043112,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 1.360280973984182,
+        "std_after_min": 1.389654622851278,
+        "category": false
+    },
+    {
+        "is_normal": true,
+        "min_val": 0.0,
+        "mean_after_min": 0.0,
+        "std_after_min": 0.0,
+        "category": false
+    },
+    {
+        "is_normal": true,
+        "min_val": 0.0,
+        "mean_after_min": 0.0,
+        "std_after_min": 0.0,
+        "category": false
+    },
+    {
+        "is_normal": true,
+        "min_val": 0.0,
+        "mean_after_min": 0.0,
+        "std_after_min": 0.0,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 0.42477708344789344,
+        "std_after_min": 0.5239727590532811,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 0.6722101508585312,
+        "std_after_min": 0.5661461160236831,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 0.05767807822067441,
+        "std_after_min": 0.19144878320727515,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 0.971676481291894,
+        "std_after_min": 1.1440359226615733,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 1.7124310284651507,
+        "std_after_min": 1.6362444666242686,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 4.040967647408297e-05,
+        "std_after_min": 0.005292279317401664,
+        "category": false
+    },
+    {
+        "is_normal": true,
+        "min_val": 0.0,
+        "mean_after_min": 0.0,
+        "std_after_min": 0.0,
+        "category": false
+    },
+    {
+        "is_normal": true,
+        "min_val": 0.0,
+        "mean_after_min": 0.0,
+        "std_after_min": 0.0,
+        "category": false
+    },
+    {
+        "is_normal": true,
+        "min_val": 0.0,
+        "mean_after_min": 0.0,
+        "std_after_min": 0.0,
+        "category": false
+    },
+    {
+        "is_normal": true,
+        "min_val": 0.0,
+        "mean_after_min": 0.0,
+        "std_after_min": 0.0,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 1.2102094102168135,
+        "std_after_min": 1.2255128191013875,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 1.2794882105840695,
+        "std_after_min": 1.3772652288314902,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 0.3192771672028167,
+        "std_after_min": 0.3029259846926228,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 0.35861961132626535,
+        "std_after_min": 0.31631345047269827,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 1.6242652285062547,
+        "std_after_min": 1.5868634175151322,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 0.3420035186359279,
+        "std_after_min": 0.3024493455223121,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 3.9791768372016385,
+        "std_after_min": 0.2632774085895334,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 5.311388717926979,
+        "std_after_min": 1.224451377630574,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 4.5783165645528525,
+        "std_after_min": 0.6498360752376472,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 4.2044122329116504,
+        "std_after_min": 0.704353726836455,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 5.764625730639205,
+        "std_after_min": 1.3828712002412462,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 5.3347974586273175,
+        "std_after_min": 1.1419466880801232,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 39.0,
+        "mean_after_min": 2.3167192201518754,
+        "std_after_min": 1.0366727320655817,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 39.0,
+        "mean_after_min": 5.657866857854842,
+        "std_after_min": 1.5740465671405934,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 39.0,
+        "mean_after_min": 4.7168074891612495,
+        "std_after_min": 1.246954389383403,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 3.6128053291150546,
+        "std_after_min": 4.000616885633788,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 9.334079444803656,
+        "std_after_min": 7.564806736685804,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 8.312241265056587,
+        "std_after_min": 6.741171538613062,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 2.9035020827967757,
+        "std_after_min": 4.337939403064881,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 8.977442056815507,
+        "std_after_min": 7.551776169183563,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 7.959079350345249,
+        "std_after_min": 6.741136169922653,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 6.595142354770978,
+        "std_after_min": 4.356966058980152,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 13.63233547427619,
+        "std_after_min": 3.0684989915494154,
+        "category": false
+    },
+    {
+        "is_normal": false,
+        "min_val": 0.0,
+        "mean_after_min": 12.198231777398854,
+        "std_after_min": 2.3178814322286296,
+        "category": false
+    }
+]
