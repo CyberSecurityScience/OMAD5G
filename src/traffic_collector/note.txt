@@ -1,0 +1,7 @@
+# Traffic collector
+Extract features from pcap or extract features live from interface
+## A note on correctness
+We tested the on-path and off-path part of the system individually on a small scale. We do not guarantee the system as a whole will perform exactly the same as the simulation. This could come from packet drops, incorrect timing, lags in running the detection (may miss or add few seconds of packet at the beginning/end of 30min window), etc.
+## A note on performance
+Due to the difference of hardware, software versions, background process, bugs in code and luck etc. the stated execution performance in the paper may not be achievable. A more correct and typical execution performance would be $4.2 \pm 9.5$ ms (worst case $6.1 \pm 26.8$ ms) for querying traffic collector, $38.2 \pm 21.3$ ms for preprocessing and $8.1 \pm 17.4$ ms for GPU inferencing. Try changing the worker count to get better performance (e.g. just one), or adding "torch.set_num_threads(1)" to inference server, pinning thread to cpu core.
+We made traffic collector fast, but we do not guarantee it can handle 5000 UEs’ traffic without packet drops.
