@@ -1,0 +1,22 @@
+nf:
+  host: 127.0.0.1
+  nrf_uri: http://172.17.0.14
+  name: usf1.5gc.mnc099.mcc208.3gppnetwork.org
+  allowed_nssai: # type Vec<ExtSnssai>
+    - sst: 1
+      sd: '000001'
+    - sst: 1
+      sd: '000002'
+  nssai: # type Vec<ExtSnssai>
+    - sst: 1
+      sd: '000001'
+    - sst: 1
+      sd: '000002'
+  plmns:
+    - mcc: '208'
+      mnc: '99'
+  allowed_plmns:
+    - mcc: '208'
+      mnc: '99'
+usf:
+  tmp_dir: /nvme0/usf_tmp

@@ -1,0 +1,10 @@
+11/1 DRQOS N4 UP function supports Direct Reporting of QoS 
+monitoring events to Local NEF or AF (see 
+clause 5.33.5).
+11/2 MBSN4 N4 UPF supports sending MBS multicast session data 
+to associated PDU sessions using 5GC individual 
+delivery.
+11/3 PSUPRM N4 UP function supports Per Slice UP Resource 
+Management (see clause 5.35).
+11/4 PSUPRM N4 UP function supports Per Slice UP Resource 
+Management (see clause 5.35).

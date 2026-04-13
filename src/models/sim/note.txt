@@ -1,0 +1,9 @@
+1. create dataset
+python create_pcap_dataset.py
+python dataset_pcap.py
+2. train model
+python mixed_trainer_realtime_nested.py
+3. eval model
+python evaluate_realtime_nested.py
+run threshold_search_nested
+
